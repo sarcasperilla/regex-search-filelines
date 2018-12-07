@@ -11,7 +11,7 @@ Created on Fri Dec  7 11:05:28 2018
 
 # The main call for this program is
 # regex_search_function(folder, regular_expression)
-# whwere folder is the folder to search, and regular_expression is a
+# where folder is the folder to search, and regular_expression is a
 # regex that the user wants to search for.
 # Results are printed in the command window.
 
